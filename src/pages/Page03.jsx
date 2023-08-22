@@ -1,7 +1,7 @@
 function Page03() {
   return (
     <div>
-      <h1>Página 03 Design</h1>
+      <h1>PAGINA03</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. At ex et
         numquam sint iure in praesentium reiciendis tenetur, voluptatum soluta
@@ -11,4 +11,4 @@ function Page03() {
   );
 }
 
-export { Page03 as Page02 };
+export { Page03 };
